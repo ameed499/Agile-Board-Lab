@@ -5,7 +5,9 @@ Agile Project Board, User Stories and Team Workflow - Lab 02
 Library Book Search
 
 ## Team Roles
+
 | Role | Responsibility | Owner |
+|---|---|---|
 | Coordinator | Maintains priorities, owners and board status | Ameed |
 | Developer | Implements the assigned technical task | Ameed |
 | Reviewer | Checks clarity, design and code changes | Ameed |
