@@ -34,3 +34,7 @@ Backlog -> Ready -> In Progress -> Review -> Done
 - Code is reviewed
 - Tests are recorded
 - README is updated
+
+
+## Reflection
+In this lab I learned how an Agile board helps a team plan work before writing code. Writing user stories with testable acceptance criteria made the requirements clear. Using the Backlog, Ready, In Progress, Review and Done columns showed the status of each task. Assigning one owner per task makes responsibility clear, and moving US-01 through the full workflow showed how team collaboration is tracked.
