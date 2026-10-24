@@ -6,11 +6,10 @@ Library Book Search
 
 ## Team Roles
 | Role | Responsibility | Owner |
-|---|---|---|
-| Coordinator | Maintains priorities, owners and board status | Name |
-| Developer | Implements the assigned technical task | Name |
-| Reviewer | Checks clarity, design and code changes | Name |
-| Tester | Verifies acceptance criteria and records evidence | Name |
+| Coordinator | Maintains priorities, owners and board status | Ameed |
+| Developer | Implements the assigned technical task | Ameed |
+| Reviewer | Checks clarity, design and code changes | Ameed |
+| Tester | Verifies acceptance criteria and records evidence | Ameed |
 
 ## Workflow
 Backlog -> Ready -> In Progress -> Review -> Done
